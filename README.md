@@ -8,8 +8,9 @@ The dashboard is designed to showcase **data visualization, exploratory analysis
 ---
 
 ## 👀 Dashboard Preview  
-![Pokémon Dashboard](Screenshots/pokemon_dashboard.png)  
-*(Screenshot captured January 7, 2026)*
+<img width="379" height="214" alt="Capture d&#39;écran 2026-01-09 110745" src="https://github.com/user-attachments/assets/bc7cbedb-776a-45d1-8fbe-c0233e4ed165" />
+ 
+*(Screenshot captured January 9, 2026)*
 
 ---
 
